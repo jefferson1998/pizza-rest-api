@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "start": "node src/index.js"
   },
   "author": "jefferson1998 <jefferson05061998@gmail.com>",
   "license": "ISC",
